@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  vmImage: myagent
+  vmImage: 'myagent'
 
 variables:
   buildplatform: 'any CPU'

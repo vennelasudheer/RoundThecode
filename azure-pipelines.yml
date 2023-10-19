@@ -6,7 +6,7 @@
 trigger:
 - none
 
-pool: RoundTheCode
+pool: myagent
 
 variables:
   buildplatform: 'any CPU'

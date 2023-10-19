@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: myagent
 
 variables:
   buildplatform: 'any CPU'

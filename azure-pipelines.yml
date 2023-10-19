@@ -6,7 +6,7 @@
 trigger:
 - none
 
-pool: myagent
+pool:
 
 variables:
   buildplatform: 'any CPU'

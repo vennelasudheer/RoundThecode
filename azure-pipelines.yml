@@ -6,8 +6,7 @@
 trigger:
 - none
 
-pool:
-  vmImage: myagent
+pool:RoundTheCode
 
 variables:
   buildplatform: 'any CPU'

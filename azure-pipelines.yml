@@ -6,7 +6,7 @@
 trigger:
 - none
 
-pool: ubuntu-latest
+pool: myagent
 
 variables:
   buildplatform: 'any CPU'
